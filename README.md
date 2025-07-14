@@ -45,7 +45,7 @@ I'm passionate about web development and enjoy building user-friendly applicatio
 Feel free to explore my repositories and reach out if you want to collaborate on projects!
 
 ---
-Ini portofolio saya (https://andiii-create.github.io/andi-porto/)
+Ini portofolio saya (https://andi-porto.vercel.app/)
 
 ## 👌 Project Saya 
 Toko Laptop (https://github.com/dery-vortigern/toko-laptop-baru.git)
